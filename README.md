@@ -67,4 +67,3 @@ Si estás interesado en la tecnología, la educación o las bases de datos, ¡no
 </p>
 
 ***
-*(Recuerda reemplazar `tu.correo@ejemplo.com` y `tu-perfil-linkedin` con tus datos reales en la sección de contacto).*
